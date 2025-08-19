@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2999570f-cb56-40f7-ab8c-f5a4d8f0335e" name="Changes" comment="added welcome and log in screen">
-      <change afterPath="$PROJECT_DIR$/Screens/SignUpScreen/SignUpScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screens/SignUpScreen/SignUpScreenStyle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2999570f-cb56-40f7-ab8c-f5a4d8f0335e" name="Changes" comment="added sign up screen">
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,7 @@
       <updated>1755541394354</updated>
       <workItem from="1755541395404" duration="264000" />
       <workItem from="1755541837769" duration="6310000" />
-      <workItem from="1755586478859" duration="19754000" />
+      <workItem from="1755586478859" duration="19874000" />
     </task>
     <task id="LOCAL-00001" summary="frontend project uploaded">
       <option name="closed" value="true" />
@@ -95,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755614098074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added sign up screen">
+      <option name="closed" value="true" />
+      <created>1755615258318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755615258320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="frontend project uploaded" />
     <MESSAGE value="added welcome and log in screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="added welcome and log in screen" />
+    <MESSAGE value="added sign up screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sign up screen" />
   </component>
 </project>
