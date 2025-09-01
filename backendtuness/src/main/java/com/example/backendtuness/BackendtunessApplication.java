@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendTunessApplication {
+public class BackendtunessApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BackendTunessApplication.class, args);
+        SpringApplication.run(BackendtunessApplication.class, args);
     }
 
 }
